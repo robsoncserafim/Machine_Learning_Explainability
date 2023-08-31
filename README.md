@@ -5,9 +5,11 @@
 </div>
 
 ## Description
-This repository houses all the resources, notebooks, and insights gained from completing the "Machine Learning Explainability" course offered by Kaggle. The course is designed to empower data scientists and machine learning practitioners with the tools and techniques required to understand, interpret, and explain models. In the age of data-driven decision-making, the ability to explain model predictions is not just valuable but often mandatory in various industries when it requires the use of Machine Learning models to solve business problems.
+This repository holds all the resources, notebooks and insights gained from completing the "Machine Learning Explainability" course offered by Kaggle. The course is designed to empower data scientists and machine learning professionals with the tools and techniques needed to understand, interpret and explain models. In the age of data-driven decision making, the ability to explain model predictions is not only valuable, but often mandatory in several industries when it is necessary to use Machine Learning models to solve business problems.
 
-The course goes beyond merely constructing predictive models; it delves into the intricacies of feature importance, permutation importance, partial dependence plots, and SHAP values, among others. These methods help in demystifying complex machine learning algorithms, offering actionable insights, and ensuring fair and transparent decision-making.
+The course goes beyond just building predictive models: it delves into the intricacies of the **importance of features, the importance of permutation, partial dependency graphs and SHAP values,** among others. 
+
+These methods help demystify complex machine learning algorithms, opening up the "black box" of algorithms and providing actionable insights and ensuring fair and transparent decision-making.
 
 ## Topics Covered
 - Feature Importance
