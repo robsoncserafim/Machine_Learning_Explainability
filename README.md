@@ -1,6 +1,5 @@
 # Machine Learning Explainability
-https://imgbox.com/DcE6CiCE
-
+<a href="https://imgbox.com/DcE6CiCE" target="_blank"><img src="https://thumbs2.imgbox.com/25/a2/DcE6CiCE_t.png" alt="image host"/></a>
 
 
 This repository houses all the resources, notebooks, and insights gained from completing the "Machine Learning Explainability" course offered by Kaggle. The course is designed to empower data scientists and machine learning practitioners with the tools and techniques required to understand, interpret, and explain models.
