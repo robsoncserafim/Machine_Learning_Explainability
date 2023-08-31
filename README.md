@@ -1,7 +1,7 @@
 # Machine Learning Explainability
 
 <div align="center">
-<img src="https://github.com/robsoncserafim/Machine_Learning_Explainability/assets/99512194/78477a47-c8f1-460d-9ef1-8a2e84337411" width="400px" />
+<img src="https://github.com/robsoncserafim/Machine_Learning_Explainability/assets/99512194/78477a47-c8f1-460d-9ef1-8a2e84337411" width="550px" />
 </div>
 
 
