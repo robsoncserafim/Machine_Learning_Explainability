@@ -5,16 +5,13 @@
 </div>
 
 ## Description
-This repository holds all the resources, notebooks and insights gained from completing the "Machine Learning Explainability" course offered by Kaggle. The course is designed to empower data scientists and machine learning professionals with the tools and techniques needed to understand, interpret and explain models. In the age of data-driven decision making, the ability to explain model predictions is not only valuable, but often mandatory in several industries when it is necessary to use Machine Learning models to solve business problems.
-
-The course goes beyond just building predictive models: it delves into the intricacies of the **importance of features, the importance of permutation, partial dependency graphs and SHAP values,** among others. 
-
-These methods help demystify complex machine learning algorithms, opening up the "black box" of algorithms and providing actionable insights and ensuring fair and transparent decision-making.
+This repository contains resources, notebooks, and insights I’ve developed while studying and building projects focused on model explainability. Using libraries like ELI5 and SHAP, I’ve explored how to interpret and communicate machine learning predictions — a skill I believe is critical for driving real impact in business. In many cases, it’s not just about making accurate predictions — it’s the ability to explain them that truly makes the difference.
 
 ## Topics Covered
 - Feature Importance
 - Permutation Feature Importance
 - Partial Dependence Plots (PDP)
+- ELI5
 - SHAP Values
 And more...
 
@@ -23,4 +20,5 @@ And more...
 - Pandas
 - Scikit-learn
 - Matplotlib
+- ELI5
 - SHAP library
